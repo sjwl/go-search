@@ -1,0 +1,17 @@
+# github.com/c-bata/go-prompt v0.2.3
+github.com/c-bata/go-prompt
+# github.com/mattn/go-colorable v0.1.4
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.8
+github.com/mattn/go-isatty
+# github.com/mattn/go-runewidth v0.0.4
+github.com/mattn/go-runewidth
+# github.com/mattn/go-tty v0.0.0-20190424173100-523744f04859
+github.com/mattn/go-tty
+# github.com/pkg/term v0.0.0-20190109203006-aa71e9d9e942
+github.com/pkg/term/termios
+# golang.org/x/net v0.0.0-20191014212845-da9a3fd4c582
+golang.org/x/net/html
+golang.org/x/net/html/atom
+# golang.org/x/sys v0.0.0-20190222072716-a9d3bda3a223
+golang.org/x/sys/unix
